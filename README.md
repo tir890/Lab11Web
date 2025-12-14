@@ -112,7 +112,7 @@ Menampilkan data artikel dari database dengan layout 2 kolom (Sidebar di kanan).
 
 Menggunakan Class Form untuk generate input dan textarea.
 
-*(Ganti link gambar di atas dengan screenshot form tambah kamu)*
+> ![tambah](https://github.com/tir890/Lab11Web/blob/24697e8a2a5c5ff86c8a95bef8c375ce225153b7/tambah-web11.jpeg)
 
 ### 3\. Form Ubah Artikel
 
