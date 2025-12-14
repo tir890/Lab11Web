@@ -118,7 +118,7 @@ Menggunakan Class Form untuk generate input dan textarea.
 
 Form otomatis terisi data lama saat tombol Edit diklik.
 
-*(Ganti link gambar di atas dengan screenshot form ubah kamu)*
+> ![ubah](https://github.com/tir890/Lab11Web/blob/1eecccd98a6b2c9be89478af912b3884f5860035/ubah-web11.jpeg)
 
 ### 4\. Modularisasi (Sidebar)
 
