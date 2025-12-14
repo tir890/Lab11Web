@@ -106,7 +106,7 @@ $act   = isset($parts[1]) ? $parts[1] : 'index';
 
 Menampilkan data artikel dari database dengan layout 2 kolom (Sidebar di kanan).
 
-*(Ganti link gambar di atas dengan screenshot index artikel kamu)*
+> ![artikel](https://github.com/tir890/Lab11Web/blob/a1ad318f3ea37c24d9a0729027f3564f1fd4a298/artikel-web11.jpeg)
 
 ### 2\. Form Tambah Artikel
 
