@@ -124,6 +124,8 @@ Form otomatis terisi data lama saat tombol Edit diklik.
 
 Sidebar dipisahkan ke file `template/sidebar.php` agar bisa dipanggil di semua halaman.
 
+> ![sidebar](https://github.com/tir890/Lab11Web/blob/3255568a0819ffb1bdef177c1ebb69ccab510066/sidebar-web11.jpeg)
+
 -----
 
 ## 🏁 Kesimpulan
