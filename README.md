@@ -124,7 +124,7 @@ Sidebar menyesuaikan tampilan menu berdasarkan status login user.
 **5. Fitur Ganti Password**
 Halaman profil untuk memperbarui password admin.
 
-> ![Ganti Password]([Ganti dengan Link Screenshot Profil])
+> ![Ganti Password](https://github.com/tir890/Lab11Web/blob/d967646af05500f0edc8a97aa871786a313b349a/profile-lab12web.png)
 
 ---
 
