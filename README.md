@@ -107,7 +107,7 @@ Menampilkan daftar artikel dengan layout sidebar responsif.
 **2. Form Tambah & Ubah Data**
 Implementasi penggunaan Class `Form` untuk input data.
 
-> ![Form Input]([Ganti dengan Link Screenshot Form])
+> ![Form Input](https://github.com/tir890/Lab11Web/blob/5b225d21930c8176c19657632a6769d3d5389803/form-lab11web.png)
 
 ### B. Bagian Autentikasi (Lab 12)
 
