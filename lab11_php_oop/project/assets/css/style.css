@@ -1,0 +1,65 @@
+/* =========================================
+   STYLE TEMA BIRU (DATABASE MODULAR)
+   ========================================= */
+* { box-sizing: border-box; }
+
+body {
+    font-family: sans-serif;
+    background-color: #f8f9fa;
+    margin: 0; padding: 0; color: #333;
+}
+
+.container {
+    width: 90%; max-width: 1200px;
+    margin: 30px auto;
+    background: #fff; padding: 30px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    border-radius: 8px;
+    border-top: 5px solid #3b82f6; /* Garis Biru Atas */
+}
+
+/* Header Biru */
+header h1 { margin: 0; color: #2563eb; font-weight: 800; text-transform: uppercase; }
+header p { margin-top: 5px; color: #64748b; }
+hr { border: 0; border-top: 1px solid #e2e8f0; margin: 20px 0; }
+
+/* LAYOUT 2 KOLOM (Sidebar Kanan) */
+.main-wrapper {
+    display: flex;       /* Wajib Flexbox */
+    gap: 30px;           /* Jarak antar kolom */
+    align-items: flex-start;
+}
+
+/* Konten Kiri (Tabel) */
+.main-content {
+    flex: 1;             /* Ambil sisa ruang */
+    min-width: 0;        /* Mencegah tabel melebarkan container */
+}
+
+/* Sidebar Kanan */
+.sidebar {
+    width: 250px;        /* Lebar Tetap */
+    flex-shrink: 0;      /* Kunci ukuran (jangan mengecil) */
+}
+
+/* TABEL */
+.table-responsive { overflow-x: auto; }
+table { width: 100%; border-collapse: collapse; margin-top: 10px; font-size: 14px; }
+table th { background: #eff6ff; color: #1e40af; padding: 12px; text-align: left; font-weight: bold; }
+table td { border-bottom: 1px solid #f1f5f9; padding: 12px; }
+table img { width: 50px; height: 50px; object-fit: cover; border-radius: 4px; border: 1px solid #ddd; }
+
+/* TOMBOL */
+a { text-decoration: none; }
+.btn-add { background: #2563eb; color: white; padding: 8px 15px; border-radius: 5px; float: right; font-weight: bold; }
+.btn-add:hover { background: #1d4ed8; }
+
+.btn-edit { color: #2563eb; background: #eff6ff; padding: 5px 10px; border-radius: 4px; margin-right: 5px; font-size: 12px; border: 1px solid #bfdbfe; }
+.btn-delete { color: #ef4444; background: #fef2f2; padding: 5px 10px; border-radius: 4px; font-size: 12px; border: 1px solid #fecaca; }
+
+/* SIDEBAR WIDGET */
+.widget { margin-bottom: 20px; border: 1px solid #e2e8f0; border-radius: 8px; overflow: hidden; }
+.widget h3 { background: #f8fafc; margin: 0; padding: 15px; font-size: 14px; border-bottom: 1px solid #e2e8f0; color: #334155; }
+.sidebar-menu { list-style: none; padding: 0; margin: 0; }
+.sidebar-menu li a { display: block; padding: 12px 20px; color: #64748b; border-bottom: 1px solid #f1f5f9; }
+.sidebar-menu li a:hover { background: #f0f9ff; color: #2563eb; padding-left: 25px; transition: 0.2s; }
