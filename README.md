@@ -114,7 +114,7 @@ Implementasi penggunaan Class `Form` untuk input data.
 **3. Halaman Login**
 Form login dengan validasi password hash.
 
-> ![Halaman Login]([Ganti dengan Link Screenshot Login])
+> ![Halaman Login](https://github.com/tir890/Lab11Web/blob/9f88d8e704ea583750032a997f3891c78ab55f2f/login-lab12web.png)
 
 **4. Menu Sidebar Dinamis**
 Sidebar menyesuaikan tampilan menu berdasarkan status login user.
