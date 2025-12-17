@@ -1,7 +1,5 @@
 
-# Lab11Web: Framework PHP OOP Modular & Routing 
-
-# Lab12Web: Framework PHP Modular dengan Sistem Autentikasi
+# Lab11Web dan Lab12Web: Framework PHP OOP Modular, Routing, & Framework PHP Modular dengan Sistem Autentikasi
 
 **Nama:** Tiara Hayatul Khoir
 
