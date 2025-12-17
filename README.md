@@ -119,7 +119,7 @@ Form login dengan validasi password hash.
 **4. Menu Sidebar Dinamis**
 Sidebar menyesuaikan tampilan menu berdasarkan status login user.
 
-> ![Sidebar Dinamis]([Ganti dengan Link Screenshot Sidebar])
+> ![Sidebar Dinamis](https://github.com/tir890/Lab11Web/blob/82eb4e6bc266e90d107b9426ec35478387d88cf6/sidebar-lab12web.png)
 
 **5. Fitur Ganti Password**
 Halaman profil untuk memperbarui password admin.
