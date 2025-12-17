@@ -102,7 +102,7 @@ lab12_php_oop/
 **1. Halaman Dashboard Artikel**
 Menampilkan daftar artikel dengan layout sidebar responsif.
 
-> ![Dashboard Artikel]([Ganti dengan Link Screenshot Dashboard Artikel])
+> ![Dashboard Artikel](https://github.com/tir890/Lab11Web/blob/fb38848d16e89ee1069f260de9b3fed86dc6e6b2/dashboard-lab12web.png)
 
 **2. Form Tambah & Ubah Data**
 Implementasi penggunaan Class `Form` untuk input data.
